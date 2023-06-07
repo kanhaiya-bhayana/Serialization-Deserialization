@@ -1,0 +1,15 @@
+D:\Kanhaiya\Visual-Studio-projects\Serialization-and-Seserialization\Serialization-and-Seserialization\bin\Debug\net7.0\SerializationDemo.exe
+D:\Kanhaiya\Visual-Studio-projects\Serialization-and-Seserialization\Serialization-and-Seserialization\bin\Debug\net7.0\SerializationDemo.deps.json
+D:\Kanhaiya\Visual-Studio-projects\Serialization-and-Seserialization\Serialization-and-Seserialization\bin\Debug\net7.0\SerializationDemo.runtimeconfig.json
+D:\Kanhaiya\Visual-Studio-projects\Serialization-and-Seserialization\Serialization-and-Seserialization\bin\Debug\net7.0\SerializationDemo.dll
+D:\Kanhaiya\Visual-Studio-projects\Serialization-and-Seserialization\Serialization-and-Seserialization\bin\Debug\net7.0\SerializationDemo.pdb
+D:\Kanhaiya\Visual-Studio-projects\Serialization-and-Seserialization\Serialization-and-Seserialization\obj\Debug\net7.0\SerializationDemo.csproj.AssemblyReference.cache
+D:\Kanhaiya\Visual-Studio-projects\Serialization-and-Seserialization\Serialization-and-Seserialization\obj\Debug\net7.0\SerializationDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kanhaiya\Visual-Studio-projects\Serialization-and-Seserialization\Serialization-and-Seserialization\obj\Debug\net7.0\SerializationDemo.AssemblyInfoInputs.cache
+D:\Kanhaiya\Visual-Studio-projects\Serialization-and-Seserialization\Serialization-and-Seserialization\obj\Debug\net7.0\SerializationDemo.AssemblyInfo.cs
+D:\Kanhaiya\Visual-Studio-projects\Serialization-and-Seserialization\Serialization-and-Seserialization\obj\Debug\net7.0\SerializationDemo.csproj.CoreCompileInputs.cache
+D:\Kanhaiya\Visual-Studio-projects\Serialization-and-Seserialization\Serialization-and-Seserialization\obj\Debug\net7.0\SerializationDemo.dll
+D:\Kanhaiya\Visual-Studio-projects\Serialization-and-Seserialization\Serialization-and-Seserialization\obj\Debug\net7.0\refint\SerializationDemo.dll
+D:\Kanhaiya\Visual-Studio-projects\Serialization-and-Seserialization\Serialization-and-Seserialization\obj\Debug\net7.0\SerializationDemo.pdb
+D:\Kanhaiya\Visual-Studio-projects\Serialization-and-Seserialization\Serialization-and-Seserialization\obj\Debug\net7.0\SerializationDemo.genruntimeconfig.cache
+D:\Kanhaiya\Visual-Studio-projects\Serialization-and-Seserialization\Serialization-and-Seserialization\obj\Debug\net7.0\ref\SerializationDemo.dll
